@@ -2,7 +2,17 @@
 
 Renders **Android Auto** and **CarPlay** navigation directly on the instrument cluster of PCM5 / MH2P Porsche vehicles. Turn-by-turn arrows, live map view, seamless handoff back to native Porsche navigation when the phone disconnects.
 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I01UMJL5)
+This software is free software, developed and maintained in my spare time.
+
+A lot of time goes into reverse engineering, development, testing and supporting different Porsche models and firmware versions.
+
+If you find it useful, please consider supporting continued development.
+
+Donations are entirely optional. The software is free and all features are available without payment.
+
+
+** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I01UMJL5) **
+>[↓ Download latest release](https://github.com/fifthBro/mh2p-cluster/releases/latest)
 
 > **Website:** https://fifthbro.github.io/
 
