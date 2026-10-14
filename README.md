@@ -1,4 +1,4 @@
-# Cluster Mirror — Android Auto & CarPlay navigation on the digital cluster
+# Cluster Integration MH2p / PCM5 and MHI2 / PCM4 — Android Auto & CarPlay navigation on the digital cluster
 
 Renders **Android Auto** and **CarPlay** navigation directly on the instrument cluster of PCM5 / MH2P Porsche vehicles. Turn-by-turn arrows, live map view, seamless handoff back to native Porsche navigation when the phone disconnects.
 
@@ -12,15 +12,13 @@ Donations are entirely optional. The software is free and all features are avail
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I01UMJL5)
->[↓ Download latest release](https://github.com/fifthBro/mh2p-cluster/releases/latest)
+[↓ Download latest release](https://github.com/fifthBro/mh2p-cluster/releases/latest)
 
 > **Website:** https://fifthbro.github.io/
 
 > **Support / Discussion:** ModKit Discord https://discord.gg/QAEkZmDh9
 
 > **Status:** Stable release — CarPlay cluster rendering now live alongside Android Auto.
-
-> **Download:** [latest release](https://github.com/fifthBro/mh2p-cluster/releases/latest)
 
 ---
 
