@@ -12,7 +12,7 @@ Donations are entirely optional. The software is free and all features are avail
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I01UMJL5)
-> [**Download latest release**](https://github.com/fifthBro/mh2p-cluster/releases/latest)
+> [**Download** latest release](https://github.com/fifthBro/mh2p-cluster/releases/latest)
 
 > **Website:** https://fifthbro.github.io/
 
