@@ -254,7 +254,7 @@ List of country overrides for when locale cannot be detected from platform servi
 - **One1Blt** — Android Auto / VNC to MIB2 rendering: https://github.com/OneB1t/VcMOSTRenderMqb
 - **adi961** — Turn-by-turn to VC integration: https://github.com/adi961/mib2-android-auto-vc
 - **LawPaul** — MH2P Modkit: https://lawpaul.github.io/MH2p_SD_ModKit_Site/
-- **CosminBC** — MH2P/MhHI2 Audi/VW paid ofr VC: https://altscreen.mib-helper.com/
+- **CosminBC** — MH2P/MhHI2 Audi/VW commercial VC: https://altscreen.mib-helper.com/
 - **litdreams10** — General platform knowledge, Android Auto testing
 - **ModKit Discord community** — Testing, bug reports, cross-car validation: https://discord.gg/QAEkZmDh9
 
