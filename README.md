@@ -6,7 +6,7 @@ Renders **Android Auto** and **CarPlay** navigation directly on the instrument c
 
 > **Support / Discussion:** ModKit Discord https://discord.gg/QAEkZmDh9
 
-> **Sponsor:** https://ko-fi.com/fifthbro
+> **Sponsor:** https://ko-fi.com/fifthbro [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I01UMJL5)
 
 > **Status:** Stable release — CarPlay cluster rendering now live alongside Android Auto.
 
