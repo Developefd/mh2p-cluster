@@ -250,13 +250,13 @@ List of country overrides for when locale cannot be detected from platform servi
 ---
 
 ## Credits
-
+- **LukaDev** — Managing screens on VW/MIB2 and CarPlay/GAL hacking: https://github.com/luka-dev/mib2q-carplay-rgi/
 - **One1Blt** — Android Auto / VNC to MIB2 rendering: https://github.com/OneB1t/VcMOSTRenderMqb
 - **adi961** — Turn-by-turn to VC integration: https://github.com/adi961/mib2-android-auto-vc
 - **LawPaul** — MH2P Modkit: https://lawpaul.github.io/MH2p_SD_ModKit_Site/
-- **LukaDev** — Managing screens on VW/MIB2 and CarPlay/GAL hacking: https://github.com/luka-dev/mib2q-carplay-rgi/
+- **CosminBC** — MH2P/MhHI2 Audi/VW paid ofr VC: https://altscreen.mib-helper.com/
 - **litdreams10** — General platform knowledge, Android Auto testing
-- **ModKit Discord community** — Testing, bug reports, cross-car validation
+- **ModKit Discord community** — Testing, bug reports, cross-car validation: https://discord.gg/QAEkZmDh9
 
 ---
 
